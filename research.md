@@ -21,5 +21,37 @@ My PhD looks into the potential applications of decadal predictions for the ener
 
 The latter methodology is known as the [UNSEEN](https://www.metoffice.gov.uk/research/climate/understanding-climate/predicting-extreme-weather#:~:text=The%20researchers%20have%20named%20this,and%20the%20results%20were%20striking.) method (Unprecedented Simulated Extremes using ENsembles). This method is particularly applicable for decadal predictions as large ensembles are necessary for averaging over the noise to extract predictable signals. It is hoped that these methods can be used to quantify multi-year extremes for the energy-sector.
 
+---
+
+## Publications
+
+### Academic papers
+
+* BW Hutchins, DJ Brayshaw, LC Shaffrey, HE Thornton, DM Smith (in preparation). Decadal predictability of surface variables over Europe for the Energy-Sector. [Manuscript deadline June 2024].
+
+* BW Hutchins, DJ Brayshaw, LC Shaffrey, HE Thornton, DM Smith (in preparation). Quantifying multi-year climate extremes for the future power system. [Manuscript deadline March 2025].
+
+* BW Hutchins, DJ Brayshaw, LC Shaffrey, HE Thornton, DM Smith (in preparation). Decadal predictions of climate extremes for the Energy-Sector.
+
+---
+ 
+### Research Groups
+
+Group | Details | Activity
+-----|-------|--------
+Energy-Met | UoR Energy-Meteorology | Current co-lead
+HHH | Dynamical Processes | Current co-lead
+COD | Climate and Ocean Dynamics | Member
+
+## Other Activities
+
+### Current
+
+* Member of Fresh Eyes on CMIP Data Request Subgroup. Involves consulting with members of thematic papers to identify key variables required for CMIP7 experiments.
+* Member of group exploring the reasons for the recent period of degraded skill in the NAO index.
+
+### Past
+
+* Member of the organising committee for the 2023 [Joint DTP conference](https://jointdtp.wordpress.com/programme/).
 
 
