@@ -35,6 +35,8 @@ The latter methodology is known as the [UNSEEN](https://www.metoffice.gov.uk/res
 
 ---
 
+## Other Activities
+
 ### Research Groups
 
 Group | Details | Activity
@@ -53,8 +55,6 @@ MTMA33 | Introduction to Computing | [[code](https://github.com/benhutchmet/MTMA
 MTMG50 | Climate Services and Impact Modelling | [[code](https://github.com/benhutchmet/MTMG50-Technical-Assignment)]
 
 ---
-
-## Other Activities
 
 ### Current
 
