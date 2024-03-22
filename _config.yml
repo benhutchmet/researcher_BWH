@@ -1,14 +1,11 @@
 title: Ben W Hutchins
-url: "https://ankitsultana.com"
+url: "https://benwhutchins.com"
 baseurl: "/researcher"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
 tracking_id: #
-
-# add a remote theme
-theme: jekyll-theme-minimal
 
 # footer: yes
 # footer_url: "https://github.com/ankitsultana"
@@ -27,3 +24,5 @@ nav:
    link: "resume.pdf"
  - name: "Contact"
    link: "contact"
+
+theme: jekyll-theme-minimal
