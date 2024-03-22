@@ -1,4 +1,4 @@
-title: Researcher
+title: Ben W Hutchins
 url: "https://ankitsultana.com"
 baseurl: "/researcher"
 
@@ -10,17 +10,19 @@ tracking_id: #
 # add a remote theme
 remote_theme: ankitsultana/researcher@gem
 
-footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+# footer: yes
+# footer_url: "https://github.com/ankitsultana"
+# footer_text: "Page design by Ankit Sultana"
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "About"
+ - name: "About Me"
    link: "/researcher/"
+ - name: "Research"
+   link: "research"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
