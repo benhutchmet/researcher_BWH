@@ -1,6 +1,6 @@
 title: Ben W Hutchins
 url: "https://benwhutchins.com"
-baseurl: "/researcher"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
