@@ -10,6 +10,10 @@ Hi! I am a second year PhD student in the Department of Meteorology at the Unive
 
 <!-- This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher) -->
 
+[![LinkedIn](linkedin.png "LinkedIn")](https://www.linkedin.com/in/ben-hutchins2572000/){:height="36px" width="36px"}
+
+[![GitHub](github.png "GitHub")](https://github.com/benhutchmet){:height="36px" width="36px"}
+
 ---
 
 ## Timeline
