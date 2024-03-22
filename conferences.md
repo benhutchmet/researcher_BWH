@@ -21,5 +21,5 @@ RMetS Weather Conference | Reading | July 2024 | talk/poster
 
 Conference | Location | Date | Content
 ---------|-------|--------|--------
-Risk Day 2024 | Newcastle | March 2024 | [Poster](Risk_Day_Poster_BWH_Final.pdf)
+Risk Day 2024 | Newcastle | March 2024 | [poster](Risk_Day_Poster_BWH_Final.pdf)
 RMetS ECR 2023 | Reading | July 2023 | [poster](RMetS_Poster_Final_BWH.pdf)
