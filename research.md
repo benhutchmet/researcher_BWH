@@ -43,6 +43,17 @@ Energy-Met | UoR Energy-Meteorology | Current co-lead
 HHH | Dynamical Processes | Current co-lead
 COD | Climate and Ocean Dynamics | Member
 
+---
+
+### Teaching
+
+Module | Description | Code
+-----|-------|--------
+MTMA33 | Introduction to Computing | [[code](https://github.com/benhutchmet/MTMA33_Computing)]
+MTMG50 | Climate Services and Impact Modelling | [[code](https://github.com/benhutchmet/MTMG50-Technical-Assignment)]
+
+---
+
 ## Other Activities
 
 ### Current

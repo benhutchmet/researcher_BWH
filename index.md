@@ -25,10 +25,11 @@ current | University of Reading  | PhD, Decadal Predictions for the Energy-Secto
 
 ## More information
 
-* Research: PhD Project, publications, teaching and other activities.
-* Conferences: Information about past and upcoming conferences.
-* Blog: Writing about energy-meteorology and beyond.
-* Contact: Contact information and other relevant pages.
+* [Research](): PhD Project, publications, teaching and other activities.
+* [Conferences](): Information about past and upcoming conferences.
+* [Blog](): Writing about energy-meteorology and beyond.
+* [CV](): Up-to-date CV.
+* [Contact](): Contact information and other relevant pages.
 
 ## Acknowledgements
 
