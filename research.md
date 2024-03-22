@@ -34,7 +34,7 @@ The latter methodology is known as the [UNSEEN](https://www.metoffice.gov.uk/res
 * BW Hutchins, DJ Brayshaw, LC Shaffrey, HE Thornton, DM Smith (in preparation). Decadal predictions of climate extremes for the Energy-Sector.
 
 ---
- 
+
 ### Research Groups
 
 Group | Details | Activity
