@@ -4,7 +4,7 @@ layout: default
 
 # Research
 
-**Interests**: Decadal predictions, climate dynamics, extreme events, renewable energy.
+**Interests**: predictability, climate dynamics, extreme events, renewable energy.
 
 ---
 
@@ -27,9 +27,9 @@ The latter methodology is known as the [UNSEEN](https://www.metoffice.gov.uk/res
 
 ### Academic papers
 
-* BW Hutchins, DJ Brayshaw, LC Shaffrey, HE Thornton, DM Smith (in preparation). Decadal predictability of surface variables over Europe for the Energy-Sector. [Manuscript deadline June 2024].
+* BW Hutchins, DJ Brayshaw, LC Shaffrey, HE Thornton, DM Smith (in preparation). Decadal predictability of climate variables over Europe for the Energy-Sector. [Submission October 2024].
 
-* BW Hutchins, DJ Brayshaw, LC Shaffrey, HE Thornton, DM Smith (in preparation). Quantifying multi-year climate extremes for the future power system. [Manuscript deadline March 2025].
+* BW Hutchins, DJ Brayshaw, LC Shaffrey, HE Thornton, DM Smith (in preparation). Quantifying worst case winters for the power system. [Manuscript deadline March 2025].
 
 * BW Hutchins, DJ Brayshaw, LC Shaffrey, HE Thornton, DM Smith (in preparation). Decadal predictions of climate extremes for the Energy-Sector.
 
@@ -41,13 +41,15 @@ The latter methodology is known as the [UNSEEN](https://www.metoffice.gov.uk/res
 
 Group | Details | Activity
 -----|-------|--------
-Energy-Met | UoR Energy-Meteorology | Current co-lead
-HHH | Dynamical Processes | Current co-lead
+Energy-Met | UoR Energy-Meteorology | Current lead
+HHH | Dynamical Processes | Former co-lead (2023-2024)
 COD | Climate and Ocean Dynamics | Member
 
 ---
 
 ### Teaching
+
+Code for the Master's courses I have taught as a demonstrator at the University of Reading.
 
 Module | Description | Code
 -----|-------|--------
@@ -58,7 +60,9 @@ MTMG50 | Climate Services and Impact Modelling | [[code](https://github.com/benh
 
 ### Current
 
-* Member of Fresh Eyes on CMIP Data Request Subgroup. Involves consulting with members of thematic papers to identify key variables required for CMIP7 experiments.
+* Member of the organising committee for the Next Generation Challenges in Energy-Climate Modelling Workshop ([NextGenEC 2024](https://research.reading.ac.uk/met-energy/next-generation-challenges-workshop/next-generation-energy-climate-modelling-2024/)).
+* Member of the organising committee for the International Conference on Energy & Meteorology ([ICEM 2025](https://www.wemcouncil.org/wp/icem/)).
+* Part of the team developing a live "[energy reanalysis](https://research.reading.ac.uk/met-energy/live_energy_reanalysis/)" product for Europe based on ERA5.
 * Member of group exploring the reasons for the recent period of degraded skill in the NAO index.
 
 ### Past
