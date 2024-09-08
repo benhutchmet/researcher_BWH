@@ -33,7 +33,7 @@ current | Royal Meteorological Society | Science Engagement Fellow ([Energy](htt
 * [Research](https://benhutchmet.github.io/researcher_BWH/research): PhD Project, publications, teaching and other activities.
 * [Conferences](https://benhutchmet.github.io/researcher_BWH/conferences): Information about past and upcoming conferences.
 * [Blog](https://benhutchmet.github.io/researcher_BWH/blog): Writing about energy-meteorology and beyond.
-* [CV](https://benhutchmet.github.io/researcher_BWH/BWH_cv_220324.pdf): Up-to-date CV.
+* [CV](https://benhutchmet.github.io/researcher_BWH/BWH_CV_080924.pdf): Up-to-date CV.
 * [Contact](https://benhutchmet.github.io/researcher_BWH/contact): Contact information and other relevant pages.
 
 ## Acknowledgements
