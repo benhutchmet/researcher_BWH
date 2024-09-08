@@ -1,4 +1,4 @@
-title: Ben W Hutchins
+title: Ben Hutchins
 url: "https://benhutchmet.github.io"
 #baseurl: "/researcher_BWH"
 
@@ -25,7 +25,7 @@ nav:
  - name: "Blog"
    link: "blog"
  - name: "CV"
-   link: "BWH_cv_220324.pdf"
+   link: "BWH_CV_080924.pdf"
  - name: "Contact"
    link: "contact"
 
