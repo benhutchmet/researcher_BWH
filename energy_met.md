@@ -15,7 +15,7 @@ e.g. David, Ben, Izzi, Salim etc.
 Section on Energy-Met alumni
 e.g. Dan Drew, Hannah, James etc. -->
 
-Group meetings occur every other Tuesday during semester time, 10-11AM.
+Group meetings occur every other Tuesday during semester time, 10-11AM, in 1L35, in-person and on Teams.
 
 ---
 
