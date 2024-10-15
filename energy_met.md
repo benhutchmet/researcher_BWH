@@ -22,11 +22,12 @@ Group meetings occur every other Tuesday during semester time, 10-11AM, in 1L35,
 ## Autumn Semester
 
 Date | Speaker | Affiliation | Topic
------|---------|--------|--------
+-------|---------|--------|--------
 15 October | ~ | ~ | Autumn Semester welcome
 29 October | Ben Hutchins | University of Reading | UNSEEN Winters
 12 November | George White & Ana Arama | University of Reading  | Dissertation updates
 26 November | Paula Gonzalez | Met Office  | UKMO Energy Consultancy
+2 December | Hannah Bloomfield | Newcastle University | Bloomfield Bonus Session
 10 December | James Fallon | Met Office | Industry Consultancy Energy
 
 ---
